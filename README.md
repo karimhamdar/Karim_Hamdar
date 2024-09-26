@@ -12,3 +12,5 @@ Business Intelligence
 Feel free to explore the projects and see how I apply my skills in Python, R, and various data science frameworks to solve real-world problems. I’m always eager to learn and collaborate, so don’t hesitate to reach out!
 
 For any questions or collaboration opportunities, feel free to contact me.
+karimhamdar09@gmail.com
+www.linkedin.com/in/karim-hamdar-326046327
