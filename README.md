@@ -13,6 +13,6 @@ Feel free to explore the projects and see how I apply my skills in Python, R, an
 
 For any questions or collaboration opportunities, feel free to contact me.
 
-karimhamdar09@gmail.com
+- karimhamdar09@gmail.com
 
-www.linkedin.com/in/karim-hamdar-326046327
+- www.linkedin.com/in/karim-hamdar-326046327
