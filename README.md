@@ -1,8 +1,5 @@
 # Welcome to Karim's GitHub 👋
 
-Here’s a suitable README for your GitHub profile:
-
-Welcome to Karim's GitHub 👋
 Hi there! I'm Karim, a 24-year-old MSc Data Science student at the University of Padova (UNIPD). I also hold a Bachelor's degree in Business Administration from the University of Cagliari (UNICA).
 
 This repository contains all of my academic projects, which cover a range of topics in:
